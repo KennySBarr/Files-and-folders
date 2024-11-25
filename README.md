@@ -7,7 +7,10 @@
 </p>
 
 <h1> Navigating the Linux Environment</h1>
-This tutorial outlines the Mastering Linux File Management: Creation, Copying, and Moving Explained.<br />
+You will continue in your role as security analyst at Candy Corp, investigating the employee potentially selling secret recipes to Sugar Corp.
+Your manager at Candy Corp needs you to create an additional directory, as they believe there is a second employee working with Sugar Corp.
+You must also copy and move several of the evidence files after creating this new directory.
+.<br />
 
 
 <h2>Environments and Technologies Used</h2>
