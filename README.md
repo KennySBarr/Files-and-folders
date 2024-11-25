@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://imgur.com/a/XGeZj8M" alt="Linux Logo"/>
+     
+![R](https://github.com/user-attachments/assets/b9566a55-3b37-432b-b68a-cc0216b4ec70)
+
+</p>
+
 </p>
 
 <h1> Navigating the Linux Environment</h1>
