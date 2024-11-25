@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/XGeZj8M" alt="osTicket logo"/>
+<img src="https://imgur.com/a/XGeZj8M" alt="Linux Logo"/>
 </p>
 
 <h1> Navigating the Linux Environment</h1>
